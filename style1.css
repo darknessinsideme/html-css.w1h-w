@@ -1,0 +1,15 @@
+table, td, tr {
+    border: 1px solid black;
+    /* border-collapse: collapse; */
+}
+a {
+    border: 5px double yellowgreen;
+    padding: 5px ;
+    /* border: 10px double red; */
+    /* border: 1px groove red; */
+    /* border: 1px ridge red; */
+    /* border: 1px inset red; */
+    /* border: 1px outset red; */
+    /* border: 1px hidden red; */
+    /* border-style:  */
+}
